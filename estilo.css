@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(imagens/bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#texto{
+    color: white;
+}
+
+.caixa {
+	/*padding: 60px 0;*/
+    background-color: white;
+    
+	border-bottom: 1px solid #e5e5e5;
+}
+
+#area-cabecalho{
+    background-color: white;
+	padding: 10px;
+    text-align: center;
+}
+
+.area-logo{
+    padding: 10px;
+}
